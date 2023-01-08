@@ -28,7 +28,7 @@ copy confog.rasi content from repo's file
 `vim ~/.bashrc`
 
 add following line 
-`export PATH="$HOME/.local/bin:$PATH”`
+`export PATH="$HOME/.local/bin:$PATH"`
 
 execute bachrc 
 `source ~/.bashrc`
